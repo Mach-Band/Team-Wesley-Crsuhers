@@ -27,7 +27,6 @@ environment.
 ![image](https://user-images.githubusercontent.com/122398311/229942671-a3eaf4c2-8475-4e64-a290-2520e4f2b814.png)
 1) Soumya Jindal: Undergraduate engineering student at IGDTUW, New Delhi
 
-
 ![image](https://user-images.githubusercontent.com/122398311/229942685-f7e1a3cf-2542-45e6-bcaa-575df41585dc.png)
 2) Meemansa Jindal: Postgraduate student at Maulana Azad Medical College, New Delhi
 
